@@ -1,4 +1,5 @@
 # Tortuga Protocol & Grail Verification Engine Specification
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22870457.svg)](https://doi.org/10.5281/zenodo.22870457) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Specification Status](https://img.shields.io/badge/status-v1.0.4--draft-blue.svg)](https://github.com/vvcherniak/tortuga-x402-spec)
 **Document Version:** 1.0.4-draft  
 **Status:** Working Group Draft  
 **Lead Architect:** V. V. Cherniak  
