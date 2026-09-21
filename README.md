@@ -77,4 +77,4 @@ grail-cli verify --input sample_asset.mp4 --policy policy_commercial.json
 
 When citing this specification in legal or technical frameworks, please use:
 
-Cherniak, V. V., Evans, M., Thorne, A. (2025). Practical Infrastructure for Automated Media Licensing and Cross-Border Royalty Settlement. Technical Report No. 2025-4B. International Media & Rights Working Group.
+Cherniak, V. V., Evans, M., Thorne, A. (2025). Practical Infrastructure for Automated Media Licensing and Cross-Border Royalty Settlement. Technical Report No. 2025-4B. International Media & Rights Working Group. DOI: 10.5281/zenodo.22870457⁠
